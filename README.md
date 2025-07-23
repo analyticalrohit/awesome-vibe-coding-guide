@@ -20,6 +20,12 @@
 
 Become a 10x Vibe Coder with this awesome guide to vibe coding. This repository compiles best practices, and tips for efficient and controlled AI-assisted coding, drawing from experiences with tools like Cursor. Vibe coding emphasizes a intuitive flow between human developers and AI, ensuring productivity without losing control.
 
+<p align="center">
+  <a href="https://awesomeneuron.substack.com/">
+    <img src="./assets/awesome_vibe_coding_guide.gif">
+  </a>
+</p>
+
 Whether you're using Cursor, windsurf, lovable or other AI tools, these guidelines help you maintain clarity, avoid common pitfalls, and build high-quality code iteratively.
 
 ## What is Vibe Coding?
