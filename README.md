@@ -85,7 +85,7 @@ Vibe coding is a mindset for AI assisted development where you "vibe" with the A
 - **Let the AI Fix Errors**: 
     - When you encounter an error, copy the exact error message from your console and paste it into the AI agent. 
     - If the first fix doesn't work, explain the outcome and try again. 
-    - The AI is often capable of resolving it .
+    - The AI is often capable of resolving it.
 
 - **Iterate and Refine**:
     - Embrace rapid iteration.
@@ -97,7 +97,7 @@ Vibe coding is a mindset for AI assisted development where you "vibe" with the A
 - **Commit Early and Often**: 
     - Push your progress to GitHub regularly. 
     - This protects your work and tracks your project's history. 
-    - You can also ask the agent to handle commits for you .
+    - You can also ask the agent to handle commits for you.
 
 - **Deploy Early**: 
     - Use platforms like Vercel to deploy your app early and catch deployment issues.
