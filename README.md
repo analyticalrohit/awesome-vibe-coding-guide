@@ -134,7 +134,7 @@ Thank you for helping us make vibe coding guide awesome!
 
 ## Newsletter
 <div style="text-align: left;">
-📌 Join 1800+ ML enthusiasts and professionals from 90 countries.<br>
+📌 Join 2000+ ML enthusiasts and professionals from 100 countries.<br>
 ✅ Learn AI for FREE with visuals, easy-to-follow insights.<br>
 ✅ Get cutting-edge topics like GenAI, RAGs, and LLMs in your inbox every week.
 </div>
