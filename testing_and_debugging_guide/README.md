@@ -7,7 +7,7 @@
 - **Let the AI Fix Errors**: 
     - When you encounter an error, copy the exact error message from your console and paste it into the AI agent. 
     - If the first fix doesn't work, explain the outcome and try again. 
-    - The AI is often capable of resolving it .
+    - The AI is often capable of resolving it.
 
 - **Iterate and Refine**:
     - Embrace rapid iteration.
