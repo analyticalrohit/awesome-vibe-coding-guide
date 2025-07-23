@@ -10,8 +10,8 @@
     - Document effective prompts, keep a record of prompts that work best and reuse them often.
 
 - **Keep Chats Focused**: 
-    - Create a new, clean chat for each distinct task. This prevents the AI's context from getting confused or hallucinating.
-    - A new chat means a clean context, which leads to better results .
+    - Create a new, clean chat for each distinct task. 
+    - This prevents the AI's context from getting confused or hallucinating.
 
 - **Reset Context When Needed**: 
     - If the AI starts getting confused, renaming files incorrectly, or sharing irrelevant errors, don't hesitate to start fresh with a New chat. 
