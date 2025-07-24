@@ -113,6 +113,20 @@ When you use AI generated code, also focus on learning, not just running. Keep t
 
 Keep thinking, be curious, and use AI to increase your coding speed and deepen your knowledge.
 
+## Top 10 Vibe Coding Tools
+
+1. [Cursor](https://www.cursor.so)
+2. [Claude Code](https://www.anthropic.com/claude-code)
+3. [Copilot](https://github.com/features/copilot)
+4. [Replit](https://replit.com)
+5. [Windsurf](https://windsurf.com)
+6. [Gemini CLI](https://blog.google/technology/developers/introducing-gemini-cli-open-source-ai-agent/)
+7. [Lovable](https://lovable.dev)
+8. [Bolt](https://bolt.new)
+9. [v0](https://v0.dev)
+10. [Tempo Labs](https://tempolabs.ai)
+
+
 ## Contributing
 
 We welcome contributions from the community! If you have a vibe coding best practice, tip, or improvement to suggest:
