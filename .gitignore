@@ -1,0 +1,98 @@
+# Environment files - NEVER commit these
+.env
+.env.local
+.env.*.local
+*.env
+secrets/
+config/secrets.json
+
+# Node.js dependencies
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+yarn.lock
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+pip-log.txt
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Build outputs
+dist/
+build/
+*.tgz
+*.tar.gz
+
+# Logs
+logs/
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+temp/
+tmp/
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# OS files
+Thumbs.db
+ehthumbs.db
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+
+# AI/ML models
+models/
+*.model
+*.pkl
+*.pth
+*.h5
+*.onnx
+
+# Documentation build
+_site/
+.docusaurus/
+.cache/
+
+# Backup files
+*.bak
+*.backup
+*.old
+
+# Package manager directories
+.pnp
+.pnp.js
+
+# Testing
+coverage/
+.nyc_output
+
+# Deployment
+.vercel
+.netlify
+
+# Cursor specific
+.cursor/
+cursor.rules
