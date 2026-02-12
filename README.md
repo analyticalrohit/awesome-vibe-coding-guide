@@ -127,6 +127,10 @@ Keep thinking, be curious, and use AI to increase your coding speed and deepen y
 10. [Tempo Labs](https://tempolabs.ai)
 
 
+## Related Lists
+
+- [awesome-vibe-coding by Taskade](https://github.com/taskade/awesome-vibe-coding) - A curated list of 245+ vibe coding tools, platforms, and resources organized by category with pricing, use cases, tutorials, and communities.
+
 ## Contributing
 
 We welcome contributions from the community! If you have a vibe coding best practice, tip, or improvement to suggest:
