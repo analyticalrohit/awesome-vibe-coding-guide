@@ -125,6 +125,7 @@ Keep thinking, be curious, and use AI to increase your coding speed and deepen y
 8. [Bolt](https://bolt.new)
 9. [v0](https://v0.dev)
 10. [Tempo Labs](https://tempolabs.ai)
+11. [Mantra](https://mantra.gonewx.com) - Local-first session time-machine for AI coding tools (Claude Code, Cursor, Windsurf). Snapshot, browse, diff, and restore any past session state. [GitHub](https://github.com/mantra-hq/mantra-releases)
 
 
 ## Contributing
