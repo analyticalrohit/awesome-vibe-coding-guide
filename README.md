@@ -125,6 +125,7 @@ Keep thinking, be curious, and use AI to increase your coding speed and deepen y
 8. [Bolt](https://bolt.new)
 9. [v0](https://v0.dev)
 10. [Tempo Labs](https://tempolabs.ai)
+11. [Autohand Code CLI](https://github.com/autohandai/code-cli) - Self-evolving autonomous coding agent for the terminal with 40+ tools, multi-LLM support, and modular skills system.
 
 
 ## Contributing
