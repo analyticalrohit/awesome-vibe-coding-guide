@@ -113,6 +113,10 @@ When you use AI generated code, also focus on learning, not just running. Keep t
 
 Keep thinking, be curious, and use AI to increase your coding speed and deepen your knowledge.
 
+## AI Memory Tools
+
+- [Cortex](https://github.com/SKULLFIRE07/cortex-memory) - Persistent AI memory for coding assistants. Auto-captures decisions, patterns, and context. VSCode extension + CLI + MCP server. Free.
+
 ## Top 10 Vibe Coding Tools
 
 1. [Cursor](https://www.cursor.so)
