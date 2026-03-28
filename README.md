@@ -125,6 +125,7 @@ Keep thinking, be curious, and use AI to increase your coding speed and deepen y
 8. [Bolt](https://bolt.new)
 9. [v0](https://v0.dev)
 10. [Tempo Labs](https://tempolabs.ai)
+11. [claude-dash](https://github.com/krabat-l/claude-dash) - Real-time statusline for Claude Code showing context, cost, quota, cache, tools, and git status
 
 
 ## Contributing
