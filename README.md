@@ -28,6 +28,7 @@ Become a 10x Vibe Coder with this awesome guide to vibe coding. This repository 
 
 Whether you're using Cursor, windsurf, lovable or other AI tools, these guidelines help you maintain clarity, avoid common pitfalls, and build high-quality code iteratively.
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for Claude Code multi-agent orchestration. Vibe-coding-ready with automated task delegation and quality gates. MIT licensed.
 ## What is Vibe Coding?
 
 Vibe coding is a mindset for AI assisted development where you "vibe" with the AI; leveraging its strengths while guiding it with clear instructions and iterative refinements. It's about creating a smooth workflow that feels natural, reduces errors, and increases your coding speed.
