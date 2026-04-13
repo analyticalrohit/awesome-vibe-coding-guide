@@ -137,6 +137,7 @@ Please include changes in the relevant folders.
 - [Coding and prompting](./coding_and_prompting_guide/README.md)
 - [Testing and Debugging](./testing_and_debugging_guide/README.md)
 - [Version and Deployment](./version_and_deployment/README.md)
+- [CCHub](https://github.com/Moresl/cchub) - A desktop control panel for the Claude Code / Codex / Gemini CLI ecosystem. Manage MCP servers, config profiles, agent skills, CLAUDE.md, hooks, and workflow templates from a single Tauri app (Windows / macOS / Linux).
 
 1. Fork the repository
 2. Create your feature branch: `git checkout -b feature/AmazingBestPractice`
