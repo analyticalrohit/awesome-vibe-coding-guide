@@ -34,6 +34,8 @@ Vibe coding is a mindset for AI assisted development where you "vibe" with the A
 
 #### Key principles:
 
+- **[Agent Shadow Brain](https://github.com/theihtisham/agent-shadow-brain)** - Self-evolving AI coding intelligence with infinite memory (TurboQuant), genetic algorithm self-evolution, predictive bug detection, PageRank knowledge graphs, swarm intelligence, and adversarial defense.
+- **[Omni Skills Forge](https://github.com/theihtisham/omni-skills-forge)** - 50,000+ curated AI agent skills for Claude Code, Cursor, Copilot, Windsurf, Cline. Visual dashboard, one-click install, skill doctor, auto-update.
 - **Clarity first**: Always provide detailed, structured prompts to the AI.
 - **Iterative control**: Break tasks into small steps and review outputs.
 - **Human oversight**: AI suggests; you decide and refine.
