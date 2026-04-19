@@ -19,6 +19,8 @@
 # Awesome Vibe Coding Guide
 
 Become a 10x Vibe Coder with this awesome guide to vibe coding. This repository compiles best practices, and tips for efficient and controlled AI-assisted coding, drawing from experiences with tools like Cursor. Vibe coding emphasizes a intuitive flow between human developers and AI, ensuring productivity without losing control.
+- **[Agent Shadow Brain](https://github.com/theihtisham/agent-shadow-brain)** - Self-evolving AI coding intelligence with infinite memory (TurboQuant), genetic algorithm self-evolution, predictive bug detection, PageRank knowledge graphs, swarm intelligence, and adversarial defense.
+- **[Omni Skills Forge](https://github.com/theihtisham/omni-skills-forge)** - 50,000+ curated AI agent skills for Claude Code, Cursor, Copilot, Windsurf, Cline. Visual dashboard, one-click install, skill doctor, auto-update.
 
 <p align="center">
   <a href="https://awesomeneuron.substack.com/">
