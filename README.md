@@ -87,6 +87,11 @@ Vibe coding is a mindset for AI assisted development where you "vibe" with the A
     - If the first fix doesn't work, explain the outcome and try again. 
     - The AI is often capable of resolving it.
 
+- **Audit Before Launch or Handoff**:
+    - Before shipping an AI-built app, review auth, data access, secrets, third-party APIs, payments, error states, and cleanup priorities.
+    - Convert the findings into a small handoff note so future AI agents or human developers know what is safe to change.
+    - This [AI app production readiness checklist](https://www.romanticode.com/blog/ai-generated-code-production-ready-checklist/) is a practical example of that audit format.
+
 - **Iterate and Refine**:
     - Embrace rapid iteration.
     - Don't worry about perfect designs initially.
