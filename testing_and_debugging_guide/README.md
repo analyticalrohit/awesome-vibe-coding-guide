@@ -13,3 +13,10 @@
     - Embrace rapid iteration.
     - Don't worry about perfect designs initially.
     - Improve them step by step.
+
+- **Stop UI Slop With a Finish Gate**:
+    - Before implementation, define a small design contract: product intent, visual rules, reference screens, and required interaction states.
+    - Review the result at phone and desktop widths, including empty, loading, error, disabled, and success states.
+    - Reject stock card grids, placeholder copy, decorative effects, or interactions that could belong to any product.
+    - Give the agent screenshot evidence and exact mismatches, then require another pass until every mismatch is resolved.
+    - A public UI reference library and reusable agent finish-gate workflow are available at https://uizze.com.
