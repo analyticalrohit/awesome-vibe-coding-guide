@@ -51,6 +51,7 @@ Vibe coding is a mindset for AI assisted development where you "vibe" with the A
     - Use an AI assistant like Claude or ChatGPT to create a detailed plan in markdown. 
     - Ask it clarifying questions and have it critique its own plan, then regenerate until it's solid. 
     - This plan becomes your instruction manual for the coding process. Save this plan in `plan.md` (or `Claude.md` if you run `/init` in Cursor) so the AI can reference it anytime.
+    - If you would rather not start from a blank prompt, [vibe-coding-prompt-template](https://github.com/KhazP/vibe-coding-prompt-template) gives you staged prompts for research, PRD, and technical design, plus a CLI that writes the resulting `AGENTS.md`.
 
 - **Secure Your Secrets**: 
     - Always store API keys, tokens, and other sensitive data in environment files (`.env`). 
