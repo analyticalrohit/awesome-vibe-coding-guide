@@ -127,6 +127,10 @@ Keep thinking, be curious, and use AI to increase your coding speed and deepen y
 10. [Tempo Labs](https://tempolabs.ai)
 
 
+## Context for coding agents
+
+- [ContextStream](https://contextstream.io) - Shared project context for Cursor, Claude Code, Codex, and Grok. Intelligence isn’t the bottleneck. Context is. MCP: https://mcp.contextstream.io/mcp
+
 ## Contributing
 
 We welcome contributions from the community! If you have a vibe coding best practice, tip, or improvement to suggest:
