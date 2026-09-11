@@ -126,6 +126,7 @@ Keep thinking, be curious, and use AI to increase your coding speed and deepen y
 9. [v0](https://v0.dev)
 10. [Tempo Labs](https://tempolabs.ai)
 
+Web / app builder: [Taskade Genesis](https://www.taskade.com/create) — One prompt → live app with projects, agents, and automations.
 
 ## Contributing
 
