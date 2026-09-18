@@ -76,6 +76,10 @@ Vibe coding is a mindset for AI assisted development where you "vibe" with the A
     - If the AI starts getting confused, renaming files incorrectly, or sharing irrelevant errors, don't hesitate to start fresh with a New chat. 
     - Resetting the context cleans the AI's state and often resolves the issue.
 
+- **Enforce Design Systems to Eliminate AI Slop**: 
+    - AI coding assistants predictably default to generic styling tropes (purple gradients, unstyled 3-card grids, emoji icons). 
+    - Constrain your model using a dedicated design skill or ruleset like [anti-slop-design](https://github.com/wwewtech/anti-slop-design) to enforce curated token archetypes, tactile micro-states, and 7-axis quality gating.
+
 ### 3. Testing and Debugging
 
 - **Run and Test Frequently**: 
